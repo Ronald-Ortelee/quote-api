@@ -1,7 +1,6 @@
 <?php
 
 # app/Http/routes.php
-
 use App\Models\Quote;
 
 /**
