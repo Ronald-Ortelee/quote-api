@@ -5,7 +5,7 @@
 use App\Models\Quote;
 
 /**
- * Display the today quote
+ * Display a random quote
  */
 $app->get('/', function() use ($app) {
 
