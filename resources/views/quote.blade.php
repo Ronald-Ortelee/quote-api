@@ -6,7 +6,7 @@
     <link href="/css/style.css" rel="stylesheet" type="text/css"/>
     <link href='http://fonts.googleapis.com/css?family=Alegreya:400,700|Roboto+Condensed' rel='stylesheet' type='text/css'>
 </head>  
-<body style="background-image: url('/img/{{$quote->background}}')"> 
+<!-- <body style="background-image: url('/img/{{$quote->background}}')">  -->
 <body style= "background-image: url(https://source.unsplash.com/category/nature/1600x900)">  
 <div class="container">  
     <div class="quote-container">
